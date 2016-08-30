@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="menu_lugares">Menu de lugares mas concurridos</string>
+    <string name="punto_kiosco">Kiosco del malecón</string>
+    <string name="punto_balandra">Playa Blandra</string>
+    <string name="punto_tecolote">Playa El Tecolote</string>
+    <string name="punto_tec">Tecnológico de La Paz</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
